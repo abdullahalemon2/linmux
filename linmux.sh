@@ -93,7 +93,7 @@ cd kalimux
 
 ls
 
-cp dekal.txt $HOME
+cp linmux.txt $HOME
 
 ls
 
